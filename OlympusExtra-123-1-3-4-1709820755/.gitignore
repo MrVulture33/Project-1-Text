@@ -1,0 +1,7 @@
+ __pycache__/
+ *.pyc
+Source/
+AssetsLab/
+Packages/TestMaps/
+VO.fsb
+Translation
